@@ -1,0 +1,40 @@
+.galery1{
+    background-color: gray;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+}
+.img1{
+    width: 315px;
+}
+.galery2{
+    background-color: gray;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+}
+.img2{
+    width: 315px;
+}
+.galery3{
+    background-color: gray;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+}
+.img3{
+    width: 315px;
+}
+.galery{
+    border: 3px solid blueviolet;
+    border-radius: 5px;
+}
